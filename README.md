@@ -1,11 +1,11 @@
 🔥botcctv🎥
-script tools is to access cctv 
-through the termux application, 
-but the cctv that is accessed is 
-only public cctv 
-which means it is not private
+  script tools is to access cctv 
+  through the termux application, 
+  but the cctv that is accessed is 
+  only public cctv 
+  which means it is not private
 
-🔥command for termux👇🔥
+          🔥command for termux📱🔥
 
 $ apt update && apt upgrade
 
@@ -28,5 +28,6 @@ $ git pull
 $ ruby botcctv.rb
 
 
-🎭Support me by clicking 
+🔥Support me by clicking 
   the star icon above✨️
+                By:AnomX🎭
