@@ -28,6 +28,5 @@ $ git pull
 $ ruby botcctv.rb
 
 
-🔥If you want to turn this tool into yours, 
-  then don't forget to
-  star me on this github✨️
+🎭Support me by clicking 
+  the star icon above✨️
