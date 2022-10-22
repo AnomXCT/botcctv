@@ -1,6 +1,6 @@
-#️⃣ botcctv
+#️⃣ botcctv🔥
 
-#️⃣ command for termux⬇️
+#️⃣ command for termux👇🔥
 
 $ apt update && apt upgrade
 
